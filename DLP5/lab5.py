@@ -223,7 +223,6 @@ def plot_training_results(train_losses, test_accuracies, epochs):
     plt.savefig('training_results.png')
     plt.show()
 
-
 def save_model(model, path='alexnet_custom_classes.pth'):
     torch.save(model.state_dict(), path)
     print(f"\nМодель сохранена в файл: {path}")

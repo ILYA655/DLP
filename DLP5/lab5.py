@@ -249,3 +249,4 @@ if __name__ == '__main__':
 
     visualize_predictions(model, test_loader, class_names, device)
     save_model(model)
+

@@ -70,7 +70,6 @@ def create_model(num_classes):
 
     return net, device
 
-
 def evaluate_model(model, test_loader, device):
     model.eval()
     correct = 0

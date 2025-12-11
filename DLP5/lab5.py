@@ -228,7 +228,6 @@ def save_model(model, path='alexnet_custom_classes.pth'):
     torch.save(model.state_dict(), path)
     print(f"\nМодель сохранена в файл: {path}")
 
-
 if __name__ == '__main__':
     print("=" * 60)
     print("ОБУЧЕНИЕ AlexNet С ТРАНСФЕРНЫМ ОБУЧЕНИЕМ")

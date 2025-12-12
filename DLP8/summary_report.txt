@@ -1,0 +1,12 @@
+Результат
+
+РЕЗУЛЬТАТ 1 (из prompt1.txt):
+----------------------------------------
+1. **1991**  
+2. **Информация не найдена в тексте**  
+3. **1673**  
+РЕЗУЛЬТАТ 2 (из prompt2.txt):
+----------------------------------------
+1. [В 1991 году Sepp Hochreiter в своей дипломной работе (Sepp Hochreiter's diploma thesis) идентифицировал и проанализировал проблему взрывающихся градиентов (vanishing gradient problem).]
+2. [Информация об разработчике метода уничтожающей производной в 1891 году в предоставленном тексте отсутствует.]
+3. [Цепное правило дифференцирования (chain rule) было предложено Gottfried Wilhelm Leibniz в 1673 году (The terminology "back-propagating errors" was actually introduced in 1962 by Rosenblatt, but he did not know how to implement this, although Henry J. Kelley had a continuous precursor of backpropagation in 1960 in the context of control theory. In 1970, Seppo Linnainmaa published the modern form of backpropagation in his Master's thesis (1970)).]
